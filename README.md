@@ -1,4 +1,4 @@
 # AI-AVATAR-CHATBOTS
 you can find the models here on hugging face-
 https://huggingface.co/tprincessazula
-and chat with them on discord- https://discord.com/invite/h5p7E4kCFf
+and chat with them on discord- https://discord.gg/Wu9StvmX7A
